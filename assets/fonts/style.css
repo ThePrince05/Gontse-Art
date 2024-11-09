@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'calibri';
+   font-display: swap;
+   src: url('calibri/font.ttf');
+}
+@font-face {
+   font-family: 'trebuchet';
+   font-display: swap;
+   src: url('trebuchet/font.ttf');
+}
